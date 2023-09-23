@@ -8,4 +8,4 @@
 
 ## Output of the Prediction App using Docker:
 
-![Output of Docker_](https://github.com/parth-panara/cloudComputing_project2/assets/97938631/94cd7af5-8fad-4693-8ebb-1f3300572854)
+![Output of Docker_](https://github.com/parth-panara/cloudComputing_project2/blob/master/output_Images/Output%20of%20Docker_.jpg)
